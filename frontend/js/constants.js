@@ -1,7 +1,7 @@
 const contractAddress = "0x23e2C77A2F3efAbD97f6948Ad6e29De4fD6Bf8E5"; //Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby or polygon
 
-const welcome_h1 = "Welcome to the Metavibe NFT Project!!";
+const welcome_h1 = "Welcome to Metavibe";
 const welcome_h2 = "Connect to MetaMask to Get Started";
 const welcome_p = 'Not just a NFT collection, This project consists 56 characters with 10,000 unique and rare NFTs.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
