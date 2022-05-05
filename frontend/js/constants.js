@@ -1,4 +1,4 @@
-const contractAddress = "0x23e2C77A2F3efAbD97f6948Ad6e29De4fD6Bf8E5"; //Replace with your own contract address
+const contractAddress = "0x49336a981772F3331eB1e353da8513122a01f336"; //Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to Metavibe";
